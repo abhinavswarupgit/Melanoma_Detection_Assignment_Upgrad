@@ -15,3 +15,8 @@ We have used ( batchnormalization , augmentation , dropouts ) techniques to enha
 Train & Validation Accracy Graph will help to analyze the Model Performance.
 
 Colab Link ( Public Link ( Setting : Anyone Can View) )  : https://colab.research.google.com/drive/1o5kw0aQ70baIyFj1vkhZAv4FV73PlwI9?usp=sharing
+
+
+PDF File : https://github.com/abhinavswarupgit/Melanoma_Detection_Assignment_Upgrad/blob/main/Melanoma_Detection_Project.ipynb%20-%20Colaboratory.pdf
+
+Code File : https://github.com/abhinavswarupgit/Melanoma_Detection_Assignment_Upgrad/blob/main/Melanoma_Detection_Project.ipynb
